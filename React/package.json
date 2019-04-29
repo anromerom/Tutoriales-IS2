@@ -1,0 +1,13 @@
+{
+  "name": "npmboi",
+  "version": "1.0.0",
+  "description": "No",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
